@@ -1,0 +1,11 @@
+LOG ENTRY: TL/2 345x personal* 
+DATE:15.01.2953
+ID:[[Ray Nomad]]
+N-ID: [[Frontiers]]-[[Commander]]-[[NOMADS]]
+
+
+It's been almost half a year since I agreed to join the [[Frontiers]] under the command of [[AplhaHugo]] and two months after getting promoted to Commander.  Yesterday I attended my last rendezvous with the integration officer and now I am a fully and officially [[UEE]] citizen, I have a job, I have a bank account, I have a small apartment, I have a name: [[Ray Nomad]].  It's funny how the nickname given to me in the rehab center became my last name.  The last months I sleep exactly 4 hours a day, I have no days off.  Too much to catch up on: language, celestial navigation, history, constant trainings, reports, tests.  Probably the worst thing in recent times was my first flight into orbit, after passing the theory I was assigned to a two-week piloting course in open space.  I'm a terrible pilot, I don't know if I'll ever be able to fly at least approximately acceptable.  [[Port Tressler]], a huge station in space… For 2 hours I stood silently in front of the observation window in the waiting room of the station…  My home, [[MicroTech]].  A huge blue-white ball in the darkness of space, surrounded by an immense number of stars and planets, the same planets as mine.  When you, who grew up in an ice cave, are told that there are other planets, that the universe is infinite, you perceive it relatively calmly: yes, other planets, yes, it is infinite.  The brain defends itself against the crushing truth, perceives the word not the fact.  But standing there, peering into the twinkling lights of distant stars, something broke in me.  My defences were crushed.  I died and was born at that very moment, I ceased to be what I imagined myself all my conscious life.  There was someone whom I have not yet been able to realize.  A man of the Universe, a man standing face to face with a beautiful, terrifying, cold and so alluring reality.  Other worlds, other races, other horizons.  I understood then one thing: I was born for this, everything that happened to me before was not an accident, it was not a coincidence, all this led me here, to this hall, to this window, to this Universe.
+
+![[Pasted image 20230712233210.jpg]]
+
+***END OF LOG***

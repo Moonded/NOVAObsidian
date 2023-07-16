@@ -1,0 +1,24 @@
+LOG Entry: 0009.3
+Star Date: 27.9.2952
+N-ID: 6275555 - Ranger
+Callsign: Fives-Fett
+System: Stanton
+Location: Lyria
+
+Part 3/4
+
+After some minutes I could hear a voice talking to someone. “Why do we have to come out here? I thought we already made sure that there wasn’t anything left after those NOVA bastards attacked the orphanage.” “December wants to make sure that there is nothing left behind. We had a NOVA ship here during the last days and after Malachite's disappearance December had to step down and take direct control over the remaining assets.” “But Sarge, why did we have to come here and not some of the other guys?” “Because I was in charge of this ship under the command of Malachite during the operation and I was told you were already  at this place before. Now shut up rookie, you’re lucky I’m not as strict as other officers or you would end like that bounty hunter we had to silence a few years ago. I myself have no idea what they did to her after she got captured. And remember that we might have gotten some company around here. That corsair out there might just be an abandoned wreck, but you never know. We're gonna check it after we are done here.” 
+
+“Oh shit, how did they pick up the Slave 5 from this distance?” I thought to myself. I took all measures I knew to make my ship as stealthy as I could, but they still were able to pick it up from that distance. At least they seemed to have missed my rover out there and that sergeant was some chattery guy. Good to get at least some sort of information. The bounty hunter they spoke about most likely was my mother. So at least I got something new about her. Now I just had to see if I could capture him and somehow bring him back to NOVA HQ. The crucial thing was that I had to surprise them to capture them alive. So I went out of my hiding spot and tried to figure out where the voices came from. I climbed up the ladder of the Module, so I would at least have the high ground. I heard them coming through the main doors of the modules and prepared myself to engage the two, or more enemies. 
+
+
+As the door opened two men walked into the medical module and one of them said to the other one: “Oh, you’re right sarge. I was already here before, during my time in the training facility. Was a rough time, we regularly needed some medical attention during the training time. Didn't knew that it was a caterpillar.” Well, curiosity killed the cat. Or in this case it showed me my target and I sent a load of lead in the direction of the rookie. Both men were wearing some strange ornamented suits with enclosed helmets, so I hoped my shots were enough to take out my first target. The sergeant immediately searched for cover in the room, while firing some shots in my direction. I felt a sharp pain in my left leg and my HUD indicated a graze shot that hit me, but without any major wound.
+My enemy found himself a bit of cover behind one of the med beds, as I tried to hit him. “Throw away your weapon and come out and you won’t get harmed.” I shouted in his direction. He refused to answer and just stayed where he was. 
+
+At this moment the guy I thought was dead took some shots at me, but because of his injury he wasn’t able to hit me as I leaped into cover. Another longer burst of shots sent him down,  this time for good. But the sergeant used the distraction to escape away from the room. I cursed to myself and ran towards the entrance to the command module to intercept him before he could reach the cockpit. 
+
+The shot on my leg caused more damage than first indicated, because I reached the main corridor at the same time as the sergeant walked by the door. I threw myself onto him because at this short distance my P4 wouldn’t help me much. We both fell down and our weapons slid away out of reach. I drew my combat knife and tried to get behind him, so I could knock him out. He seemed to see what I was planning and moved accordingly to avoid me. He even was able to surprise me in one of my moves and punched my knife out of my hands. As we were down to our fists after exchanging some punches I was able to kick him onto one of his knees putting him down and onto the floor. I immediately went after him and knocked him out. 
+
+I tied him up and searched for any additional weapons. After that I collected my weapons and secured the rifle of the sergeant. The command module was clear and I assumed that they only sent two people to investigate here. I brought the sergeant back down to the modules and checked on his friend, which was dead. I healed my wound as good as I could and my suit sealed itself up again. After that I had to wait until that guy would wake up again.
+
+End of Log

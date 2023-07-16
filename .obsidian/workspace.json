@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "99508abdd006d0ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "5061dedd07fc75cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a08f20d9e13783",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "c0b6ee2b41c8e042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storys/Captain Roeleveld/LOG ENTRY 00203.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93a7f0f890f81145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storys/Cepheus/Log Entrys/LOG ENTRY 123051.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26cb165d5bf6ed47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storys/Captain Roeleveld/LOG ENTRY 00037.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71e41ac45db165be",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d2b28be84158b34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d4907a51a20ec7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8844c0d9220c795a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7603cd63f229311a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "right": {
+    "id": "a2a87293649c4fc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa43a6a857f3cf51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79ac1869f5c6b129",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Storys/Captain Roeleveld/LOG ENTRY 00203.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc058139823b5bdc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Storys/Captain Roeleveld/LOG ENTRY 00203.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d04678cca39fd6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4945225751b1fcf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Storys/Captain Roeleveld/LOG ENTRY 00203.md"
+              }
+            }
+          },
+          {
+            "id": "735e7b4221d4063b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e0609447899da07",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "c0b6ee2b41c8e042",
+  "lastOpenFiles": [
+    "Storys/Captain Roeleveld/LOG ENTRY 00203.md",
+    "Storys/Captain Roeleveld/LOG ENTRY 00037.md",
+    "Storys/Cepheus/Log Entrys/LOG ENTRY 123051.md",
+    "Storys/Cepheus/Log Entrys/LOG ENTRY 010452.md",
+    "Storys/Cepheus/Log Entrys/LOG ENTRY 010352 - 2.md",
+    "Storys/Cepheus/Log Entrys/LOG ENTRY 010352 - 1.md",
+    "Storys/Captain Roeleveld/LOG ENTRY 00204.md",
+    "Storys/Captain Roeleveld/LOG ENTRY 00202.md",
+    "Storys/Captain Roeleveld/LOG ENTRY 00198.md",
+    "CaptainRoeleveld.md",
+    "Storys/Captain Roeleveld/LOG ENTRY 00195.md",
+    "Storys/Captain Roeleveld/LOG ENTRY 00194.md",
+    "Storys/Captain Roeleveld/LOG ENTRY 00191.md",
+    "Storys/Captain Roeleveld/LOG ENTRY 00189.md",
+    "Storys/Captain Roeleveld/LOG ENTRY 00188.md",
+    "Storys/Captain Roeleveld/LOG ENTRY 00187.md",
+    "Storys/Cepheus/SECURITY SURVEILLANCE RECORDING - ID 112852001002.md",
+    "Storys/ChaoticVasti/Log Entry 1.md",
+    "Storys/ChaoticVasti/NOVA VENTURE SCENE 1.md",
+    "Storys/Comfort/LOG ENTRY 03921.md",
+    "Storys/DemonikWolfe/Commanders Log 29521011.1750.md",
+    "Storys/DemonikWolfe/LOG ENTRY 00921.md",
+    "Storys/DemonikWolfe/LOG ENTRY 07065202.md",
+    "Storys/Dolbi/Journal Log/Log Entry 450623.md",
+    "Storys/Dolbi/Journal Log/Journal Log 133.md",
+    "Storys/Dolbi/Nova Intergalactic Mission Files/The Pirate Stronghold.md",
+    "Affiliation/NOVA",
+    "Assets/Missing_Medicines.mp4",
+    "Planet Types",
+    "System",
+    "Affiliation",
+    "Cities",
+    "Assets/Pasted image 20230712234500.png",
+    "Storys/Jim ''Chief'' Sox/Dossier",
+    "Assets/Pasted image 20230712233933.png",
+    "Assets/Pasted image 20230712233929.png",
+    "Assets/Pasted image 20230712233210.jpg",
+    "Assets/Pasted image 20230712223107.png",
+    "Assets/Pasted image 20230712223052.png",
+    "Assets/Pasted image 20230712222644.png",
+    "Storys/Jim ''Chief'' Sox/Log Entrys",
+    "Assets/Pasted image 20230712222011.jpg",
+    "Storys/RagudMezegis",
+    "Storys/Rine_Kikumi",
+    "Assets/Pasted image 20230712215355.png",
+    "Assets/Pasted image 20230712215342.png"
+  ]
+}

@@ -1,0 +1,9 @@
+A new Life
+#Winter_2951, [[Orison]]
+
+
+The first time I opened my eyes, I knew nothing. Not who I was, where I was, or anything. All I noticed was that I was stuck in a tube. I found myself in a liquid that was swarming with gas bubbles rising up. I tried to move, but the body did not respond. Then something happened. Behind the bubbling liquid appeared a bright rectangle in which two shadows appeared before it disappeared again. After a felt eternity, the fluid began to vibrate. Compared to the interference from the gas bubbles only slightly, but it was enough for my ears to filter it out and forward it to the head.
+
+“What about the patient?” The vibrations changed. “The second phase is coming to an end and first signs of the evolving consciousness will be observable. ” I had no idea what that was, but somehow these vibrations seem to make sense, because I listen focused even though I don’t understand a word yet. "Then everything is going according to plan so far," said the first vibration pattern. "The data already shows the first attempts to move, although we are still blocking it." A blow shook my realm and I opened my eyes again. What I saw was clearly one of the two shadows in the rectangle and a word appeared out of the black of my memory. Slim.
+
+"Sir, confirming the initial phase of consciousness. Her eyes have opened slightly. Severe clouding of the eyeball is still eminent. Overall condition of the body satisfactory." A connection was made in the mind. Pattern 2 associated with Shade Slim. "Data match", said pattern one and a second shadow joined the first. "Mental abilities are developing faster than predicted." A new connection arose in my mind in association with new words: Pattern 1 to shade large, average.

@@ -1,0 +1,5 @@
+Cepheus, standing next to Bandader and a holographic Arch, wearing his ‘casual’ outfit, a Sabine Undersuit and Artimex helmet, stands a little straighter after Dolbi’s stern opening statement. “Well, sir, I’d like to point out that I was simply leading a team, and was not a commander, or in a position of authority at that time. Thus, I had nothing to do with any incarcerations.” Ceph said, with a nervous tinge to his voice.
+
+  
+
+With a throat clearing cough, Ceph continued “I have been working together with Arch and the Ghosts over the past few months to locate Malachite. I was tipped off by an informant of his location, and shortly after the Ghosts confirmed his location. We know he has a security detail, but we don't know of it’s size or capability. We believe he is acting on the orders of a much larger organization, the exact size or scale of which we hope he will be able to tell us…"

@@ -1,0 +1,20 @@
+LOG ENTRY: 1
+STARDATE: 2952
+HANDLE: [[AlphaHugo]]
+CALLSIGN: Dragon
+LOCATION: ?
+
+ENTER THE DRAGON
+
+The battle is fierce! The opponent [[Vanduul]]. We are outnumbered. As the UEE fleet approaches Earth in Sol the NOVA fleet is attempting to outflank the [[Vanduul]] on the left wing. Capital ships left, right, the heat from the explosions seer through the canopy of my ship with a sense of disbelief.. As our wing skip jumps between the debris we are engaged by a an even more aggressive 7 ship opponent... AAAAAAHHHHH rings in my ears repeatedly as we are being picked off like flies. "He's on my ta......" are the last words before another of our wing shudders in the black. "Break off and regroup" command stutters over the comms but it looks like an impossible task as we are fighting for every last breath in what seems to be a lost fight.
+What's left our wing banks right crossing the front of the NOVA fleet in a last ditch effort to sacrifice ourselves to draw fire away from command in the hopes to gain an advantage. Flashes of bright light blind me as 2 bengals shatter in colours of fire in front of me. BANG, WOMP, KADOOF are the sounds of lifeless mutilated bodies bouncing off the hull of my ship. I grit my teeth and snare at the hatred of our fellow companions abrupt end they have faced, but holding back tears is the only way i try to compose myself...
+
+Suddenly a loud WHAM shakes my ship off the starboard as a Scythe tears through my right wing.... My ship goes into an extreme spin, forcing G's beyond anything i have experienced in all my training. As i fight to try gain control of my ship in an anti-rotational spin, i start losing consciouness. The sheer pressure is too much to bare. As sight fades from my eyes, and my foot lightens off the left rudder i feel the ships rotational spin slow down and my vision begins to regain! So close was that to my end that i never even realised it in that moment.
+My ship is still mostly unresponsive and warning alarms ring around me in the cockpit... Major torque imbalance flashes in the corner of my eye. I turn whats left of my ship in a forceful maneuvre and aim my nose straight for planet Earth... Nothing more i can do in the battle apart from remaining as the bulls eye target practice on a dart board, easy pickings....
+As my ship enters the outer atmosphere i with a last draw of deep breath pull back on my stick and throttle to bring the undercarriage of my ship against the entry... i feel the verocity of the fire burning the hull. I peer over my right shoulder to see if the right side of the ship will withstand the entry burn or if this is where i say my prayers to whatever Gods are close enough to hear my cries and bellows to save me
+Before i can utter the last of my prayers i clear the burn and rays of sunlight glare against my canopy. I dip my nose forward and holding off the throttle know that gravity is not my best friend at this stage... "Pull Up" the ship systems scream repeatedly (or am i making this up in my head i ask myself) as i fall through the skies to what i know is my end, so close to the beauty of embracing Mother Earths warm touch on my naked skin but yet so far from a reality... We have travelled so far only to meet our maker before we are re-united as mankind on what is our HOME!!!
+
+BOOOOOOOOOM! My ship hits a lake of water and by some miracle (although this may be the Gods heeding my call) i see water splash out and waves depart the surface where my ship impacts... With no time to spare i instinctively pull the eject lever but am thrust through my reinforced canopy into the air above... to no surprise, my ships state was beyond recognisable even before i made entry into the atmosphere......
+I scream in darkness and jump up in my bed, a cold hard sweat running across my body, my bed drenched by it
+
+"WAS THAT A DREAM?" i ask myself loudly or was this a vision of my end?

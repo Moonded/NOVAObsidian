@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "Nova",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Stanton",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.07958226768968,
+  "lineSizeMultiplier": 0.478047740835465,
+  "collapse-forces": true,
+  "centerStrength": 0.461691939345571,
+  "repelStrength": 15.7799312285089,
+  "linkStrength": 1,
+  "linkDistance": 290,
+  "scale": 0.059326171875000826,
+  "close": true
+}

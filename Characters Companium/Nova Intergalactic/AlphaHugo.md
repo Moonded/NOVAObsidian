@@ -1,0 +1,6 @@
+[[INCOMING TRANSMISSION 1]]
+[[Storys/AlphaHugo/LOG ENTRY 1]]
+[[LOG ENTRY 2]]
+[[LOG ENTRY 3]]
+[[LOG ENTRY 4]]
+[[LOG ENTRY 5]]

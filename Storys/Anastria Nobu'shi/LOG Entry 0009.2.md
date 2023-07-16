@@ -1,0 +1,22 @@
+LOG Entry: 0009.2
+Star Date: 27.9.2952
+N-ID: 6275555 - Ranger
+Callsign: [[Fives-Fett]]
+System: [[Stanton]]
+Location: [[Lyria]]
+
+Part 2/4
+
+As I looked through the scope of my P6-LR I began to understand why the [[Nova Intergalactic|NOVA]] scouts didn’t bother to investigate any further at this place. I landed the Slave 5 about 15 km away from my current position, set it into stealth mode and drove the distance with my new Ursa. Now I laid on the rim of the mountains surrounding the valley to which the coordinates lead. Looking through the scope I can’t see anything special or strange about the caterpillar standing in the middle of the valley. On a first look it seems to be a normal, although old caterpillar that was stripped of all the weapons and without the command module. 
+
+But on a closer look I recognised a few proximity sensors, that were laid out underneath the modules and around the elevator. Most likely they weren’t recognisable from a ship scanning the caterpillar from the air. That was interesting, because normally an abandoned ship wouldn’t have this sort of protection, so I decided to take a look inside the ship if possible. I first went back to my Ursa rover to warm me up after laying around outside and to check the systems of the vehicle. I made sure that all the systems were powered down as far as possible and linked the passive radar to my helmet, so I would get a warning if anything was approaching my location. 
+
+I worked my way down to the caterpillar carefully, so I wouldn’t get surprised by any sort of trap or sensor I haven’t noticed yet. As I came near the entrance elevator I took a closer look at the proximity sensors and recognized them as a PSM-04 series sensor, which I came across a few times during my bounty hunter career. The interesting part about those sensors is that they got a weakness in their design which made them easier to disarm. They had a weak spot in their casing where the sensor could be disabled through a gunshot or knife throw without setting off an alarm. I pulled out my P6-LR and aimed at that weak spot. It needed to be a good shot, because if I miss the alarm will be set off. I checked the radar once again before I shot, so I’m sure there is no ship around. I pulled the trigger and I hit the weak spot of the sensor near the elevator. The recoil almost pushed the deactivated sensor into the area of another one, but it didn’t set off the alarm. I made sure that there wasn’t any other sensor protecting the elevator and then moved to the elevator and called it down. I switched to the P4-AR and entered the ship. 
+
+
+I made my way through the caterpillar and always checked for more traps or sensors. First I went to the back of the ship into the engine room to see if there is any information left I could use. On further investigation I was able to confirm the [[Nova Intergalactic|NOVA]] intel data that the engines were destroyed and this ship wouldn’t fly anywhere. The logs in the engineering station were all wiped, so I couldn’t get any navigational data. They even wiped the refuelling logs. The next room I took a look at was the server room but as in the engineering room there wasn’t anything left in here that would be of use to me.
+I got further into the ship and entered the cargo modules. As it turned out not all of them were cargo modules. The third one was actually converted into a medical bay with 4 med beds. It seemed like this was some sort of medical facility they used for the case they had any medical emergencies at The Orphanage. But as I feared there wasn’t any new information here I could use. All stations and computers were wiped, destroyed or even removed entirely. 
+
+The radar of my Ursa suddenly picked up an incoming ship. The unusual thing about it was that it was a lone caterpillar command module and the contact popped up when it was only about 500 m away from the caterpillar I was in. That was alarming. I rushed into the medical module to search for a good hiding spot and wait for whoever was coming in that ship. I heard the command module coming near the caterpillar and as it docked to it the whole ship shook. My Ursa couldn’t get a scan of the module, so I had no idea if I was up against only one person or ten. I hid in my spot, activated the recording of my helmet and listened if I could hear anything. 
+
+End of Log
