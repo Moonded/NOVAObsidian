@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storys/Captain Roeleveld/LOG ENTRY 00203.md",
+                "file": "Storys/MaxXx04/LOG ENTRY 00458.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,9 +52,86 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53bc1a28e485e8d4",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "Assets/Missing_Medicines.mp4"
+              }
+            }
+          },
+          {
+            "id": "9a89ec803f2be917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storys/Anastria Nobu'shi/You're a master, Chief.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "30be1cc4952cece6"
+          },
+          {
+            "id": "64beceda1a94b6e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
+      },
+      {
+        "id": "2f9e40c8484b74c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b51c87cdea0e131",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Storys/Anastria Nobu'shi/You're a master, Chief.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000009,
+                  "close": false
+                }
+              }
+            },
+            "group": "30be1cc4952cece6"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storys/Captain Roeleveld/LOG ENTRY 00203.md",
+                "file": "2023-07-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storys/Captain Roeleveld/LOG ENTRY 00203.md",
+                "file": "2023-07-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storys/Captain Roeleveld/LOG ENTRY 00203.md"
+                "file": "2023-07-19.md"
               }
             }
           },
@@ -201,36 +278,39 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c0b6ee2b41c8e042",
+  "active": "64beceda1a94b6e7",
   "lastOpenFiles": [
+    "2023-07-19.md",
+    "Untitled.canvas",
+    "Storys/Cepheus/Log Entrys/LOG ENTRY 062553 - 2.md",
+    "Storys/BandaderArten/Journal Log/LOG ENTRY 470317.md",
+    "Storys/Cepheus/Log Entrys/LOG ENTRY 062553 - 1.md",
+    "Storys/Anastria Nobu'shi/You're a master, Chief.md",
+    "Storys/Anastria Nobu'shi/Something Different.md",
+    "Storys/Anastria Nobu'shi/Progression.md",
+    "Storys/Anastria Nobu'shi/Monster-Nightmare.md",
+    "Storys/Anastria Nobu'shi/Memory.md",
+    "Storys/Anastria Nobu'shi/LOG Entry 0009.2.md",
+    "Storys/AlphaHugo/LOG ENTRY 4.md",
+    "Storys/AlphaHugo/LOG ENTRY 5.md",
+    "Storys/AlphaHugo/LOG ENTRY 2.md",
+    "Storys/AlphaHugo/LOG ENTRY 1.md",
+    "Storys/AlphaHugo/INCOMING TRANSMISSION 1.md",
+    "CaptainRoeleveld.md",
+    "Division Magnoliophyta.md",
+    "Cities/Crusader.md",
+    "Affiliation/NOVA/Nova Intergalactic.md",
+    "Assets/Missing_Medicines.mp4",
+    "Storys/MaxXx04/LOG ENTRY 00458.md",
+    "Storys/Cepheus/SYN NTWK 4B ENCRYPTED ENTRY RET....md",
+    "Assets/Pasted image 20230719151725.jpg",
+    "Assets/Pasted image 20230719151714.jpg",
+    "Storys/BandaderArten/Journal Log/Journal Log 470312.md",
     "Storys/Captain Roeleveld/LOG ENTRY 00203.md",
     "Storys/Captain Roeleveld/LOG ENTRY 00037.md",
     "Storys/Cepheus/Log Entrys/LOG ENTRY 123051.md",
     "Storys/Cepheus/Log Entrys/LOG ENTRY 010452.md",
-    "Storys/Cepheus/Log Entrys/LOG ENTRY 010352 - 2.md",
-    "Storys/Cepheus/Log Entrys/LOG ENTRY 010352 - 1.md",
-    "Storys/Captain Roeleveld/LOG ENTRY 00204.md",
-    "Storys/Captain Roeleveld/LOG ENTRY 00202.md",
-    "Storys/Captain Roeleveld/LOG ENTRY 00198.md",
-    "CaptainRoeleveld.md",
-    "Storys/Captain Roeleveld/LOG ENTRY 00195.md",
-    "Storys/Captain Roeleveld/LOG ENTRY 00194.md",
-    "Storys/Captain Roeleveld/LOG ENTRY 00191.md",
-    "Storys/Captain Roeleveld/LOG ENTRY 00189.md",
-    "Storys/Captain Roeleveld/LOG ENTRY 00188.md",
-    "Storys/Captain Roeleveld/LOG ENTRY 00187.md",
-    "Storys/Cepheus/SECURITY SURVEILLANCE RECORDING - ID 112852001002.md",
-    "Storys/ChaoticVasti/Log Entry 1.md",
-    "Storys/ChaoticVasti/NOVA VENTURE SCENE 1.md",
-    "Storys/Comfort/LOG ENTRY 03921.md",
-    "Storys/DemonikWolfe/Commanders Log 29521011.1750.md",
-    "Storys/DemonikWolfe/LOG ENTRY 00921.md",
-    "Storys/DemonikWolfe/LOG ENTRY 07065202.md",
-    "Storys/Dolbi/Journal Log/Log Entry 450623.md",
-    "Storys/Dolbi/Journal Log/Journal Log 133.md",
-    "Storys/Dolbi/Nova Intergalactic Mission Files/The Pirate Stronghold.md",
     "Affiliation/NOVA",
-    "Assets/Missing_Medicines.mp4",
     "Planet Types",
     "System",
     "Affiliation",
@@ -246,8 +326,6 @@
     "Storys/Jim ''Chief'' Sox/Log Entrys",
     "Assets/Pasted image 20230712222011.jpg",
     "Storys/RagudMezegis",
-    "Storys/Rine_Kikumi",
-    "Assets/Pasted image 20230712215355.png",
-    "Assets/Pasted image 20230712215342.png"
+    "Storys/Rine_Kikumi"
   ]
 }
