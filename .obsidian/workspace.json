@@ -4,104 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5061dedd07fc75cc",
+        "id": "266217513fb4c5a8",
         "type": "tabs",
         "children": [
           {
-            "id": "f1a08f20d9e13783",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "c0b6ee2b41c8e042",
+            "id": "ff3d46e6bd1cb839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storys/MaxXx04/LOG ENTRY 00458.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93a7f0f890f81145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storys/Cepheus/Log Entrys/LOG ENTRY 123051.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26cb165d5bf6ed47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storys/Captain Roeleveld/LOG ENTRY 00037.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53bc1a28e485e8d4",
-            "type": "leaf",
-            "state": {
-              "type": "video",
-              "state": {
-                "file": "Assets/Missing_Medicines.mp4"
-              }
-            }
-          },
-          {
-            "id": "9a89ec803f2be917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storys/Anastria Nobu'shi/You're a master, Chief.md",
+                "file": "Characters Companium/Nova Intergalactic/CaptainRoeleveld.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "30be1cc4952cece6"
-          },
-          {
-            "id": "64beceda1a94b6e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-07-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            "group": "b8feb2fa2dbda3bf"
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
-        "id": "2f9e40c8484b74c5",
+        "id": "7a0aadaba9862f48",
         "type": "tabs",
         "children": [
           {
-            "id": "1b51c87cdea0e131",
+            "id": "2632217104e3dd07",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Storys/Anastria Nobu'shi/You're a master, Chief.md",
+                "file": "Characters Companium/Nova Intergalactic/CaptainRoeleveld.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,12 +55,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000009,
-                  "close": false
+                  "scale": 0.7132754626224425,
+                  "close": true
                 }
               }
             },
-            "group": "30be1cc4952cece6"
+            "group": "b8feb2fa2dbda3bf"
           }
         ]
       }
@@ -197,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-19.md",
+                "file": "Characters Companium/Nova Intergalactic/CaptainRoeleveld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-19.md",
+                "file": "Characters Companium/Nova Intergalactic/CaptainRoeleveld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-19.md"
+                "file": "Characters Companium/Nova Intergalactic/CaptainRoeleveld.md"
               }
             }
           },
@@ -278,9 +209,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "64beceda1a94b6e7",
+  "active": "ff3d46e6bd1cb839",
   "lastOpenFiles": [
     "2023-07-19.md",
+    "Characters Companium/Nova Intergalactic/CaptainRoeleveld.md",
+    "Affiliation/NOVA/Nova Intergalactic.md",
+    "Characters Companium/Nova Intergalactic/Captain Roeleveld.md",
+    "Storys/Captain Roeleveld/LOG ENTRY 00202.md",
+    "Storys/Dr. Adrun Chan/Unraveling the Phenomenal Thermal Radiation Adaptation of the Glory of the Frosts Plant.md",
+    "Division Magnoliophyta.md",
     "Untitled.canvas",
     "Storys/Cepheus/Log Entrys/LOG ENTRY 062553 - 2.md",
     "Storys/BandaderArten/Journal Log/LOG ENTRY 470317.md",
@@ -296,10 +233,7 @@
     "Storys/AlphaHugo/LOG ENTRY 2.md",
     "Storys/AlphaHugo/LOG ENTRY 1.md",
     "Storys/AlphaHugo/INCOMING TRANSMISSION 1.md",
-    "CaptainRoeleveld.md",
-    "Division Magnoliophyta.md",
     "Cities/Crusader.md",
-    "Affiliation/NOVA/Nova Intergalactic.md",
     "Assets/Missing_Medicines.mp4",
     "Storys/MaxXx04/LOG ENTRY 00458.md",
     "Storys/Cepheus/SYN NTWK 4B ENCRYPTED ENTRY RET....md",
@@ -307,9 +241,6 @@
     "Assets/Pasted image 20230719151714.jpg",
     "Storys/BandaderArten/Journal Log/Journal Log 470312.md",
     "Storys/Captain Roeleveld/LOG ENTRY 00203.md",
-    "Storys/Captain Roeleveld/LOG ENTRY 00037.md",
-    "Storys/Cepheus/Log Entrys/LOG ENTRY 123051.md",
-    "Storys/Cepheus/Log Entrys/LOG ENTRY 010452.md",
     "Affiliation/NOVA",
     "Planet Types",
     "System",

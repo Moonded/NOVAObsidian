@@ -5,7 +5,7 @@
 |[[Artanus Trell]]| | [[NOVA Command]] |
 |[[Bill E.B.Adass]]||
 |[[Captain Jonathan William Beckett]]|||
-|[[Captain Roeleveld]]||
+|[[CaptainRoeleveld]]||
 |[[Captain Steven Armitage]]|||
 |[[ChaoticVasti]]|||
 |[[Commander BandaderArten]]|||
